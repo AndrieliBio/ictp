@@ -1,4 +1,16 @@
+#R files to avoid
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Avoid adding html
+*.html
+
+# Avoid adding zip files
+*.zip
+
+# Avoid specific foulders
+data/shapefiles
+data/raster
+
